@@ -72,5 +72,5 @@ RegisterNumber:24900200
 ![image](https://github.com/user-attachments/assets/c404f53c-6643-4c8f-a1c6-51d8c6f6951f)
 
 
-**RESULTS**
+# RESULTS:
 The d-flipflop are the output is verified
